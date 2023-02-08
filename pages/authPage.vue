@@ -3,10 +3,6 @@
     <br/>
     <u>{{ testParameter }}</u>
     </h1>
-    <h2>Here is the pinia test string:
-    <br/>
-    <u>{{ storeTest }}</u>
-    </h2>
 </template>
 <script setup>
     // definePageMeta({ auth: false })W
